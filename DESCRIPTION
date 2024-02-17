@@ -45,8 +45,7 @@ Imports:
     paws.security.identity,
     cli,
     jsonvalidate,
-    base64enc,
-    sodium
+    base64enc
 Suggests:
     glue,
     rmarkdown,
